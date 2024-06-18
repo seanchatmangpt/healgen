@@ -1,0 +1,78 @@
+Patient Information:
+
+Name: John A. Doe
+Date of Birth: January 15, 1970
+Gender: Male
+Marital Status: Married
+Address: 123 Maple Street, Springfield, IL, 62704
+Contact Number: (217) 555-1234
+Emergency Contact: Jane Doe (Wife) - (217) 555-5678
+Medical History:
+
+Past Medical History:
+
+Hypertension (Diagnosed: 2010)
+Type 2 Diabetes Mellitus (Diagnosed: 2015)
+Hyperlipidemia (Diagnosed: 2012)
+Chronic Obstructive Pulmonary Disease (COPD) (Diagnosed: 2018)
+Obstructive Sleep Apnea (Diagnosed: 2016)
+Depression (Diagnosed: 2017)
+Gastroesophageal Reflux Disease (GERD) (Diagnosed: 2013)
+Osteoarthritis (Diagnosed: 2019)
+Seasonal Allergies (Diagnosed: 2005)
+Benign Prostatic Hyperplasia (Diagnosed: 2020)
+
+Surgical History:
+
+Appendectomy (1988)
+Cholecystectomy (2008)
+Left Knee Arthroscopy (2019)
+Family History:
+
+Father: Hypertension, Myocardial Infarction (deceased at 68)
+Mother: Type 2 Diabetes Mellitus, Breast Cancer (deceased at 72)
+Brother: Hypertension, Hyperlipidemia
+Sister: Type 2 Diabetes Mellitus, Osteoarthritis
+Social History:
+
+Occupation: Accountant
+Tobacco Use: Smoked 1 pack/day for 20 years, quit in 2015
+Alcohol Use: Social drinker, 1-2 drinks/week
+Illicit Drug Use: Denies
+Exercise: Walks 3 times/week for 30 minutes
+Diet: Low carbohydrate diet since 2018
+Hobbies: Reading, Gardening
+Medications:
+
+Lisinopril 20mg daily (Hypertension)
+Metformin 1000mg BID (Diabetes)
+Atorvastatin 40mg daily (Hyperlipidemia)
+Albuterol inhaler PRN (COPD)
+Fluticasone/Salmeterol inhaler BID (COPD)
+Omeprazole 20mg daily (GERD)
+Sertraline 50mg daily (Depression)
+Tamsulosin 0.4mg daily (BPH)
+Acetaminophen 500mg PRN (Osteoarthritis pain)
+Loratadine 10mg daily (Seasonal Allergies)
+CPAP machine at night (Sleep Apnea)
+Allergies:
+
+Penicillin (Rash)
+Sulfa drugs (Hives)
+Recent Visits and Notes:
+
+Date: March 10, 2024
+Reason for Visit: Routine follow-up for diabetes and hypertension
+Subjective:
+Reports feeling well overall, but notes occasional dizziness upon standing.
+No new complaints or symptoms.
+Objective:
+Vitals: BP 135/85, HR 78, Temp 98.6°F, RR 16, SpO2 96% on room air.
+Physical Exam: Unremarkable except for mild bilateral knee crepitus.
+Assessment:
+Hypertension: Controlled
+Type 2 Diabetes Mellitus: Controlled
+Hyperlipidemia: Controlled
+Osteoarthritis: Symptomatic
+Plan:
+Continue current medications.

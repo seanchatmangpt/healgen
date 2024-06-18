@@ -1,0 +1,56 @@
+Name: Jane B. Smith
+Date of Birth: March 5, 1985
+Gender: Female
+Marital Status: Single
+Address: 456 Oak Avenue, Springfield, IL, 62704
+Contact Number: (217) 555-6789
+Emergency Contact: Emily Smith (Sister) - (217) 555-4321
+
+Medical History:
+
+Past Medical History:
+
+None
+Surgical History:
+
+None
+Family History:
+
+Father: Hypertension, alive at 68
+Mother: Hypothyroidism, alive at 65
+Brother: Asthma
+Sister: No known medical conditions
+Social History:
+
+Occupation: Teacher
+Tobacco Use: Never
+Alcohol Use: Social drinker, 1-2 drinks/month
+Illicit Drug Use: Denies
+Exercise: Runs 5 times/week for 45 minutes
+Diet: Balanced diet, rich in fruits and vegetables
+Hobbies: Running, Cooking, Photography
+Medications:
+
+Multivitamin daily
+Probiotic supplement daily
+Allergies:
+
+None
+Recent Visits and Notes:
+
+Date: June 1, 2024
+Reason for Visit: Annual wellness check
+Subjective:
+
+Reports feeling excellent, no complaints or symptoms.
+Objective:
+
+Vitals: BP 118/76, HR 62, Temp 98.4°F, RR 14, SpO2 98% on room air.
+Physical Exam: Normal findings.
+Assessment:
+
+Healthy adult female with no current health issues.
+Plan:
+
+Continue current healthy lifestyle.
+Return for annual wellness check next year.
